@@ -553,7 +553,7 @@ const quizData = [
     {
         question: "51 Какая должна быть длина ограждающих бортов в пунктах погрузки и перегруза горной массы на ленточных конвейерах?",
         image: "img/robox.webp", // Placeholder; replace with actual image URL
-        correct: "не менее 3 м",
+        correct: "не менее 5 м",
         options: [
             "не менее 3 м",
             "не менее 5 м",
