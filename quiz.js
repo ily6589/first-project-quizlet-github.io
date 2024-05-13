@@ -79,7 +79,7 @@ const quizData = [
     },
     {
         question: "8 Что изображено под цифрой '8' на Шахтном электровозе АМД-8 Д?",
-        image: "img/8.jpg", // Placeholder; replace with actual image URL
+        image: "img/IMG_5837.jpeg", // Placeholder; replace with actual image URL
         correct: "Контроллер",
         options: [
             "Система масловоздушная",
