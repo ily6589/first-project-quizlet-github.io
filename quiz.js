@@ -166,7 +166,7 @@ const quizData = [
         ]
     },
     { 
-    question: "15 Что расположено под цифрой '5' проходческого комбайнаГПКС ?",
+    question: "15 Что расположено под цифрой '5' проходческого комбайна ГПКС ?",
         image: "img/15.jpg", // Placeholder; replace with actual image URL
         correct: "Нагребающие лапы",
         options: [
