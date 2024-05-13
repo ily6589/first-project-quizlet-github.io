@@ -157,6 +157,17 @@ const quizData = [
     {
         question: "15 Что расположено под цифрами '7-8' на питателе проходческого комбайна ГПКС ?",
         image: "img/15.jpg", // Placeholder; replace with actual image URL
+        correct: "Гидроцилиндры перемещения",
+        options: [
+            "Поршень-ударник",
+            "Гидроцилиндры перемещения",
+            "Гидроусилитель",
+            "Ротор"
+        ]
+    },
+    { 
+    question: "15 Что расположено под цифрой '5' проходческого комбайнаГПКС ?",
+        image: "img/15.jpg", // Placeholder; replace with actual image URL
         correct: "Нагребающие лапы",
         options: [
             "Поршень-ударник",
