@@ -430,7 +430,7 @@ const quizData = [
         ]
     },
     {
-        question: "4 Какое минимальное количество рабочих должно быть при замене шнека на очистном комбайне?",
+        question: "39 Какое минимальное количество рабочих должно быть при замене шнека на очистном комбайне?",
         image: "img/robox.webp", // Placeholder; replace with actual image URL
         correct: "3",
         options: [
