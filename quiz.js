@@ -623,7 +623,7 @@ function nextQuestion() {
         currentQuestionIndex++;
         displayQuestion();
     } else {
-        quizArea.innerHTML = "<h3>End of the Quiz!</h3>";
+        quizArea.innerHTML = "<h3>Ой хорош, сегодня судный день, помни!</h3>";
     }
 }
 
