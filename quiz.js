@@ -100,7 +100,7 @@ const quizData = [
         ]
     },
     {
-        question: "10. Что расположено под цифрой '5' на погрузочной машине 1ПНБ2 ?",
+        question: "10. Что расположено под цифрой '6' на погрузочной машине 1ПНБ2 ?",
         image: "img/10.jpg", // Placeholder; replace with actual image URL
         correct: "Система управления",
         options: [
